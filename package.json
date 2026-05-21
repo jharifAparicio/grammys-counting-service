@@ -1,1 +1,0 @@
-{"name": "counting-service", "version": "1.0.0", "scripts": {"start:dev": "fastify start -l info -P app.js"}, "dependencies": {"fastify": "^4.26.0", "fastify-plugin": "^4.5.1"}}
